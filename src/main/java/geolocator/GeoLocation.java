@@ -1,4 +1,6 @@
 package geolocator;
 
-public class GeoLocation {
+import java.lang.Record;
+
+public record GeoLocation() {
 }
